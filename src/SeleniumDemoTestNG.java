@@ -66,7 +66,7 @@ public class SeleniumDemoTestNG {
 		JFrame f = new JFrame();
 
 		String name = JOptionPane.showInputDialog(f,
-				"Please select the Instance: \r\n 1>DSERAJ \r\n 2>DSER1J \r\n 3>SSERAJ \r\n 4>OCI");
+				"Please select th Instance: \r\n 1>DSERAJ \r\n 2>DSER1J \r\n 3>SSERAJ \r\n 4>OCI");
 		System.out.println(name);
 
 		// System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir")
